@@ -1,0 +1,1 @@
+Plugin used for egames
